@@ -15,12 +15,12 @@
 
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
-
         </activity>
-        <activity android:name=".LikesActivity"/>
-        <activity android:name=".ProfileActivity"/>
-        <activity android:name=".ShareActivity"/>
-        <activity android:name=".SearchActivity"/>
+        <activity android:name=".LikesActivity" />
+        <activity android:name=".ProfileActivity" />
+        <activity android:name=".ShareActivity" />
+        <activity android:name=".SearchActivity" />
+        <activity android:name=".AccountSettingsActivity"></activity>
     </application>
 
 </manifest>
