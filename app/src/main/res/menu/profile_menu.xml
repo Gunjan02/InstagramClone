@@ -4,5 +4,5 @@
 
     <item
         android:id="@+id/profileItem"
-        android:title="Item" />
+        android:title="Account Settings" />
 </menu>
